@@ -8,8 +8,7 @@ table {
 }
 .content {
   background-color: white;
-  width: 1000px;
   margin: auto;
-  width: 60%;
+  width: 100%;
   padding: 10px;
 }
