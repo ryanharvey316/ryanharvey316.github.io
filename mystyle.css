@@ -5,3 +5,7 @@ body {
 table {
   width: 1000px;
 }
+div { 
+  background-color: white;
+  width: 1000px
+}
