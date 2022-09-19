@@ -2,10 +2,6 @@ body {
   background-color: lightblue;
 }
 
-#container{ 
-  width:400px
-  background-color:white;
-  margin:auto;
-  left:0;
-  right:0;
+table {
+  width: 1000px;
 }
